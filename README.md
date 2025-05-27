@@ -4,6 +4,6 @@ MRE of fatal Fatal signal 11 (SIGSEGV), code 1 (SEGV_MAPERR) in libGLESv2_mtk.so
 
 ## Screenrecording of crash
 
-https://drive.google.com/file/d/1qb4qm0QfFxKdPrUNZRZIQd_FOF5d0fvD/view?usp=sharing
+https://github.com/user-attachments/assets/6c79032f-7b45-4e1c-a148-d23d3b9e7093
 
 Device: Xiaomi Redmi 9C
